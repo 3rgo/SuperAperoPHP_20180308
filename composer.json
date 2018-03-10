@@ -1,0 +1,15 @@
+{
+    "name": "3rgo/SuperAperoPHP_20180308",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Romain GONÇALVES",
+            "email": "romain.goncalves@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"Doomsday\\": "src/"}
+    }
+}

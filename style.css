@@ -1,0 +1,35 @@
+* {
+    text-align: center;
+}
+
+div#resultimage {
+    width: 100%;
+    background-color: black;
+}
+
+table {
+    margin: auto;
+}
+
+table, table td, table th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table th {
+    font-weight: bold;
+    background-color: LightGray;
+}
+
+table td, table th {
+    width: 100px;
+    padding: 10px;
+}
+
+td.success {
+    background-color: green;
+}
+
+td.failure {
+    background-color: red;
+}
